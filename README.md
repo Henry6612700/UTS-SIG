@@ -1,2 +1,0 @@
-# UTS-SIG
-Arcgis
